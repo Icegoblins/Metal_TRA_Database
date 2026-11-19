@@ -1,0 +1,27 @@
+{
+ "分类总数": 13,
+ "变动分类": [
+  "box",
+  "enemy",
+  "enemy_map",
+  "hy",
+  "map_index",
+  "out_tm",
+  "player",
+  "player_date",
+  "tank_date",
+  "taos",
+  "title",
+  "title_s",
+  "tj"
+ ],
+ "新增分类": [],
+ "时间": "2026-11-10_191618",
+ "移除分类": [
+  "HG",
+  "TC_WORLD_MAP_DATA",
+  "dc_date",
+  "email",
+  "rw"
+ ]
+}
